@@ -201,3 +201,4 @@ const cards = document.querySelectorAll('.product-card');
 cards.forEach((card, i) => {
   card.style.transitionDelay = `${i * 0.1}s`;
 });
+
